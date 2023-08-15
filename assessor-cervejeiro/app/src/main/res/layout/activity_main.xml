@@ -13,6 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:entries="@array/beer_colors"
         android:layout_margin="16dp"
         />
 
@@ -22,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="Encontrar Cerveja" />
+        android:text="@string/encontrar_cerveja" />
 
     <TextView
         android:id="@+id/brands"
@@ -30,6 +31,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="Tipos de Cerveja" />
+        android:text="@string/brands" />
 
 </LinearLayout>
