@@ -4,7 +4,7 @@
     <string name ="brands">Nenhuma cerveja selecionada</string>
     <string-array name ="beer_colors">
         <item>Clara</item>
-        <item>Ambar</item>
+        <item>Âmbar</item>
         <item>Brown</item>
         <item>Escura</item>
     </string-array>

@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     fun getBeers(color: String): List<String>{
         return when (color){
             "Clara" -> listOf("Blond Belga", "American Larger")
-            "Ambar" -> listOf("Patagonia Ambar", "Red Moose")
+            "Âmbar" -> listOf("Patagonia Ambar", "Red Moose")
             "Brown" -> listOf("Brown Bear Beer", "Bock Brownie")
             else -> listOf("Gout Stout","Carvoeira")
         }
