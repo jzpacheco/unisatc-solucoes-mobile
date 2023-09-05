@@ -7,6 +7,8 @@
     <string name="message_hint">Por favor, escreva sua mensagem</string>
     <string name="next">Próximo</string>
     <string name="encrypt_text">Aqui está sua mensagem criptografada:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
